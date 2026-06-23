@@ -66,7 +66,8 @@ Alpha is one of the products of Opus, the parent pre-seed fintech startup. https
 
 ### Hackathons
 
-<!-- TODO: repo / demo links where bracketed. -->
+**UNO** · June 2026 (Solo) · 🏅 1st at Main Track (London GTM: Cursor x Lightfern) · 🏅 1st (Zero Track) · 🏅 1st (Cursor Track)
+A chrome extension and CRM integration that scrapes Luma event attendees and allows to "uno reverse" inbound marketing, creating an "inbound-derived outbound" for Lightfern's GTM challenge. → [demo](https://www.loom.com/share/954e49f718c84bea9b586ce13ef3e6e5)
 
 **OSCAR** · June 2026 (Solo) · 🥉 3rd — Built in London (Vercel × OpenAI)
 A live prompt co-pilot that reflects back what the agent *heard* before you send, helping avoid lazy and ambiguous prompts. → [live](https://oscar.rakhmanov.xyz)
@@ -74,7 +75,7 @@ A live prompt co-pilot that reflects back what the agent *heard* before you send
 **LAWSON** · May 2026 (Solo) ·
 A warm legal intake that secretly learns to speak like your future lawyer - Linguistic Style Matching, drifting from your voice toward theirs. → [repo](https://github.com/)
 
-**UMbook** · April 2026 (Team Lead) · won a UM bounty — UnicornMafia London · A crowdsourced VC database with deep research agents and portco analysis for conflicts or collussions. → [video demo](https://drive.google.com/file/d/1nfqMl1uhzxI1QHbdb_6MDTkMpurbVj49/view)
+**UMbook** · April 2026 (Team Lead) · 🏅 1st (UM bounty) — UnicornMafia London · A crowdsourced VC database with deep research agents and portco analysis for conflicts or collussions. → [video demo](https://drive.google.com/file/d/1nfqMl1uhzxI1QHbdb_6MDTkMpurbVj49/view)
 
 <br />
 
