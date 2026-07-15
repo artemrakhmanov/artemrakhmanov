@@ -26,6 +26,8 @@
 # Alpha, Realty-as-a-Service
 Post-revenue production system. The concept is "self-serve real estate": request listings, generate offers and submit them. This product allows clients to "be their own realtor". 
 
+For realtors, it is a complete vertical OS for real estate brokerages of any size to run their business with exceptional efficiency: showings management, invoicing, deals automation, document management and even conveyancing.
+
 (Powers a bootstrapped proptech brokerage in Toronto, $142M processed, Alpha is a brownfield MSP brought to market in a quarter solo and built up iteratively on live files)
 
 https://zerovaluerealty.com
